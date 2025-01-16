@@ -1,6 +1,12 @@
 # Linux
 Linux Learning
 
+<ol>
+  <li>Identifying an IP address of a website using basic CURL in terminal</li>
+  <p> To identify the IP address of a command, run the command "curl -v --silent https://google.com 2>&1 | head -n 5" </p>
+  <li></li>
+</ol>
+
 
 <h1 align="center">Hi 👋, I'm Debashish Mohanty</h1>
 <h3 align="center">A developer from India</h3>
